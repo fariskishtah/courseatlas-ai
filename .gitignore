@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/index/
+data/index_exp/
+data/uploads/
+*.log
+.DS_Store
+.claude/
+.gradio/

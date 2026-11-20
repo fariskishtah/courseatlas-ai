@@ -1,0 +1,10 @@
+app:
+  title: "CourseAtlas AI"
+  subtitle: "Evidence-Grounded Academic Knowledge & Retrieval Platform"
+  data_dir: data
+  index_dir: data/index
+  upload_dir: data/uploads
+  courses_dir: data/sample_courses
+  read_only: false          # override with COURSEATLAS_READ_ONLY=1 for public demos
+  max_upload_mb: 10
+  allowed_extensions: [pdf, docx, csv, txt]

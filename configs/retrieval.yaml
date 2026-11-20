@@ -1,0 +1,8 @@
+chunking:
+  chunk_size: 900
+  chunk_overlap: 120
+retrieval:
+  top_k: 5
+  mode: dense
+  min_score: 0.3939
+  max_context_chars: 5000

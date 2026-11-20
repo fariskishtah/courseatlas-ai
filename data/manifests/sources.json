@@ -1,0 +1,98 @@
+[
+  {
+    "course_id": "ml",
+    "filename": "ml_exercise_guide.docx",
+    "sha256": "57e10c5d05b11e1676526806058aff60da58f5c95f055397a3cf020b45da09dc",
+    "bytes": 38081,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "ml",
+    "filename": "ml_lecture_notes.pdf",
+    "sha256": "00342cc90e348f3b77073c3380301b3d35961fbb58aa1b3cc06c2b61ca832977",
+    "bytes": 10129,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "ml",
+    "filename": "ml_model_evaluation_runs.csv",
+    "sha256": "732f1c951f2aeed525d774fb17822c822be89eae58fe84cac8be87611affa4f2",
+    "bytes": 1128,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "ml",
+    "filename": "ml_reference_notes.txt",
+    "sha256": "75fc444cb6c36ea67499ded38cded27a17d35efb238e9128fbf6ab12637d6aec",
+    "bytes": 2214,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "python",
+    "filename": "python_exercise_guide.docx",
+    "sha256": "51f31d1fcd7fda06629640d9f4d774a9c776d558194bb85f59be4421db7e26b9",
+    "bytes": 38158,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "python",
+    "filename": "python_lecture_notes.pdf",
+    "sha256": "893498860d676c92c41ddc167ab855c312dda3be95252e66269adaf3d09806df",
+    "bytes": 11115,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "python",
+    "filename": "python_practice_exercises.csv",
+    "sha256": "89f3e7b10cb9688a130a1d422b69c0d0620cf020cd3abe7a8f9a11abe016f81b",
+    "bytes": 1593,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "python",
+    "filename": "python_reference_notes.txt",
+    "sha256": "04baa4a07a06ab56608af6c397aaa030d766782ff464ed197a23520d7bb948b2",
+    "bytes": 2133,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "statistics",
+    "filename": "statistics_exercise_guide.docx",
+    "sha256": "66488752086a026a8cb2470028ba0cd0e2ceea645aedaee87d2fd3581895f234",
+    "bytes": 38062,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "statistics",
+    "filename": "statistics_lecture_notes.pdf",
+    "sha256": "579f7467d83c288edf6038653aee2830b5153409ace41eb4f3932b3ad2619565",
+    "bytes": 10174,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "statistics",
+    "filename": "statistics_reference_notes.txt",
+    "sha256": "f504cd8a0d6b2ec3a9f41bd6858f1849f914f1e66158e64bb4c05a658ecd99a5",
+    "bytes": 1683,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  },
+  {
+    "course_id": "statistics",
+    "filename": "statistics_worked_examples.csv",
+    "sha256": "be6d4835ddc47b40b438fef9ec5afcd4c7c38d525f843b04c351d5b73119c9ee",
+    "bytes": 2943,
+    "source": "Original content written for CourseAtlas AI (scripts/course_content.py)",
+    "license": "CC BY 4.0"
+  }
+]

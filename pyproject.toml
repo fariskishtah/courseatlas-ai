@@ -1,0 +1,7 @@
+[project]
+name = "courseatlas-ai"
+version = "1.0.0"
+description = "Evidence-grounded multi-course academic RAG platform (Standard RAG)"
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "MIT" }

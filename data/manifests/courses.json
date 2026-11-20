@@ -1,0 +1,17 @@
+{
+  "python": {
+    "name": "Python Programming",
+    "description": "Core Python: variables, control flow, functions, data structures, files, exceptions and object-oriented programming.",
+    "icon": "🐍"
+  },
+  "statistics": {
+    "name": "Statistics & Probability",
+    "description": "Descriptive statistics, probability, distributions, sampling, confidence intervals, hypothesis testing and regression.",
+    "icon": "📊"
+  },
+  "ml": {
+    "name": "Machine Learning Fundamentals",
+    "description": "Supervised and unsupervised learning, overfitting, bias-variance, evaluation metrics, cross-validation and feature engineering.",
+    "icon": "🤖"
+  }
+}
